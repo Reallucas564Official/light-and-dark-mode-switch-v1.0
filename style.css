@@ -1,0 +1,23 @@
+.schalterDiv {
+    background-color: transparent;
+    border: 2px solid black;
+    width: 60px;
+    height: 30px;
+    border-radius: 90px;
+    margin: 5px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.schalter {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 90px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+body {
+    transition: 0.7s;
+}
